@@ -1,0 +1,8 @@
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+https://www.w3schools.com/js/
+https://nodejs.org/en/
+https://vuejs.org/
+https://www.jetbrains.com/webstorm/
+https://www.youtube.com/watch?v=W73SimAdNnA&ab_channel=JetBrainsTV
+https://www.youtube.com/watch?v=_NRodG8VcMs&ab_channel=JetBrainsTV
+https://www.youtube.com/watch?v=DyndGu0fPSE&list=PLJNLwTPak6di8DuZNdRJEmNgFA-eIHcJ6&ab_channel=VueMastery

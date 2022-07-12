@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/ef/core/
+https://www.learnentityframeworkcore.com/configuration/data-annotation-attributes
+https://www.youtube.com/watch?v=VGTb51LbX3g&ab_channel=MicrosoftDeveloper
+https://www.youtube.com/watch?v=Gp6Mm5Jaf9o&ab_channel=MicrosoftDeveloper

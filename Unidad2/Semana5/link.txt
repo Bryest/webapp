@@ -1,0 +1,5 @@
+https://vuetifyjs.com/en/
+https://github.com/axios/axios
+https://blog.bitsrc.io/comparing-http-request-libraries-for-2019-7bedb1089c83
+https://www.youtube.com/watch?v=qM4G1Ai2ZpE&ab_channel=Academind
+https://www.youtube.com/watch?v=6LyagkoRWYA&ab_channel=TraversyMedia

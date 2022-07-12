@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-6.0
+https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs
+https://www.smarterasp.net/support/kb/a2135/how-to-publish-asp_net-core-web-application-via-visual-studio-2019.aspx
+https://docs.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-6.0

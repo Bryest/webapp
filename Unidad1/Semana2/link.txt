@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/ef/core/
+https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0
+https://www.youtube.com/watch?v=23OGtkEpMtc&ab_channel=dotNET
+https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy&ab_channel=dotNET

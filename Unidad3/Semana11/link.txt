@@ -1,0 +1,5 @@
+https://nunit.org/
+https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2019
+https://www.youtube.com/watch?v=Oy-Ny1Op6PY&ab_channel=KieranStafford
+https://www.youtube.com/watch?v=QBiBZ8bsfcU&ab_channel=dotNET
+https://www.youtube.com/watch?v=4averylLdjQ&ab_channel=MicrosoftVisualStudio

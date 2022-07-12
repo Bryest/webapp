@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-5.0
+https://jwt.io/
+https://vuex.vuejs.org/
+https://jwt.io/
+https://www.youtube.com/watch?v=jLJVMD2GBAA&ab_channel=dotNET
+https://www.youtube.com/watch?v=ULFAgn2ITko&ab_channel=ScalableScripts
